@@ -37,7 +37,7 @@ export default
   },
   mounted() 
   {
-    fetch('@/src/public/stores.json')
+    fetch('/stores.json')
       .then(response => response.json())
       .then(data => 
       {

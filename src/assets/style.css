@@ -8,15 +8,14 @@ body
   
 #app 
 {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+    margin: auto;
+    padding: 25px;
 }
   
 header 
 {
-    background-color: #007bff;
-    padding: 10px 0;
+    background-color: #070607;
+    padding: 20px 0;
     color: #fff;
     text-align: center;
 }
@@ -42,5 +41,5 @@ nav a:hover
   
 h1 
 {
-    color: #333;
+    color: #000000;
 }
